@@ -13,6 +13,7 @@ RUN \
       tzdata \
       curl \
       xmlstarlet \
+      udev \
       uuid-runtime \
       unrar \
     && \
